@@ -9,7 +9,7 @@ img{
 }
 
  /* style */
- body{background:#eee;}
+ body{background:rgb(91,119,132);}
 
 
 .globalHeader{
@@ -80,7 +80,7 @@ img{
     justify-content: center; 
     align-items: center;  
      flex-direction: column;
-     background-color: #C4C4C4;
+     background-color: rgb(241,243,244);
      position: relative;
 }
 .siteList .site{
